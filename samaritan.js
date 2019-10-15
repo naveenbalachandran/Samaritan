@@ -99,7 +99,11 @@ var blinkTriangle = function()
 
 var runRandomPhrase = function()
 {
-    // Get a random phrase and execute samaritan
+    // Get a random 
+    
+
+    
+//phrase and execute samaritan
     var randomIndex = 0;
     if($State.phraselist.length > 1){
         if(getUrlParameter('random') == 'false'){ //if random parameter is set to false
